@@ -71,4 +71,4 @@ query = "Does Luna have any friends?"
 answer = get_answer(query)
 print(answer)
 
-print("abcdef")
+
